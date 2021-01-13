@@ -1,2 +1,2 @@
-# AreaCalculator
-Calculates the area of a circle and square
+# JavaExercises
+Set of java exercises of varying complexity.
